@@ -1,7 +1,7 @@
 galaxy_info:
   role_name: Webserver
-  namespace: s1201156
-  author: s1201156
+  namespace: EmreYildiz1201156
+  author: EmreYildiz1201156
   description: A role to configure and manage databases.
   company: ""
   license: MIT
